@@ -1,0 +1,609 @@
+[2019-08-07T14:28:11.989] [DEBUG] app.js - debug
+[2019-08-07T14:29:16.307] [DEBUG] app.js - debug
+[2019-08-07T14:29:26.674] [INFO] index.js - info
+[2019-08-07T14:29:26.674] [DEBUG] index.js - debug
+[2019-08-07T14:29:26.675] [ERROR] index.js - error
+[2019-08-07T14:29:27.930] [INFO] index.js - info
+[2019-08-07T14:29:27.930] [DEBUG] index.js - debug
+[2019-08-07T14:29:27.930] [ERROR] index.js - error
+[2019-08-07T14:29:28.417] [INFO] index.js - info
+[2019-08-07T14:29:28.417] [DEBUG] index.js - debug
+[2019-08-07T14:29:28.418] [ERROR] index.js - error
+[2019-08-07T14:29:28.858] [INFO] index.js - info
+[2019-08-07T14:29:28.859] [DEBUG] index.js - debug
+[2019-08-07T14:29:28.860] [ERROR] index.js - error
+[2019-08-07T14:29:30.066] [INFO] index.js - info
+[2019-08-07T14:29:30.066] [DEBUG] index.js - debug
+[2019-08-07T14:29:30.066] [ERROR] index.js - error
+[2019-08-07T14:29:31.172] [INFO] index.js - info
+[2019-08-07T14:29:31.173] [DEBUG] index.js - debug
+[2019-08-07T14:29:31.173] [ERROR] index.js - error
+[2019-08-07T14:29:31.584] [INFO] index.js - info
+[2019-08-07T14:29:31.585] [DEBUG] index.js - debug
+[2019-08-07T14:29:31.585] [ERROR] index.js - error
+[2019-08-07T14:29:32.032] [INFO] index.js - info
+[2019-08-07T14:29:32.033] [DEBUG] index.js - debug
+[2019-08-07T14:29:32.034] [ERROR] index.js - error
+[2019-08-07T14:29:32.258] [INFO] index.js - info
+[2019-08-07T14:29:32.258] [DEBUG] index.js - debug
+[2019-08-07T14:29:32.259] [ERROR] index.js - error
+[2019-08-07T14:29:32.575] [INFO] index.js - info
+[2019-08-07T14:29:32.576] [DEBUG] index.js - debug
+[2019-08-07T14:29:32.576] [ERROR] index.js - error
+[2019-08-07T14:29:32.809] [INFO] index.js - info
+[2019-08-07T14:29:32.809] [DEBUG] index.js - debug
+[2019-08-07T14:29:32.809] [ERROR] index.js - error
+[2019-08-07T14:29:33.105] [INFO] index.js - info
+[2019-08-07T14:29:33.106] [DEBUG] index.js - debug
+[2019-08-07T14:29:33.106] [ERROR] index.js - error
+[2019-08-07T14:29:33.312] [INFO] index.js - info
+[2019-08-07T14:29:33.312] [DEBUG] index.js - debug
+[2019-08-07T14:29:33.313] [ERROR] index.js - error
+[2019-08-07T14:29:33.640] [INFO] index.js - info
+[2019-08-07T14:29:33.641] [DEBUG] index.js - debug
+[2019-08-07T14:29:33.641] [ERROR] index.js - error
+[2019-08-07T14:29:33.833] [INFO] index.js - info
+[2019-08-07T14:29:33.833] [DEBUG] index.js - debug
+[2019-08-07T14:29:33.833] [ERROR] index.js - error
+[2019-08-07T14:29:34.016] [INFO] index.js - info
+[2019-08-07T14:29:34.016] [DEBUG] index.js - debug
+[2019-08-07T14:29:34.017] [ERROR] index.js - error
+[2019-08-07T14:29:34.193] [INFO] index.js - info
+[2019-08-07T14:29:34.193] [DEBUG] index.js - debug
+[2019-08-07T14:29:34.194] [ERROR] index.js - error
+[2019-08-07T14:29:34.372] [INFO] index.js - info
+[2019-08-07T14:29:34.373] [DEBUG] index.js - debug
+[2019-08-07T14:29:34.373] [ERROR] index.js - error
+[2019-08-07T14:30:07.646] [INFO] index.js - info
+[2019-08-07T14:30:07.650] [ERROR] index.js - error
+[2019-08-07T14:30:08.384] [INFO] index.js - info
+[2019-08-07T14:30:08.384] [ERROR] index.js - error
+[2019-08-07T14:30:08.880] [INFO] index.js - info
+[2019-08-07T14:30:08.880] [ERROR] index.js - error
+[2019-08-07T14:30:09.209] [INFO] index.js - info
+[2019-08-07T14:30:09.210] [ERROR] index.js - error
+[2019-08-07T14:30:09.399] [INFO] index.js - info
+[2019-08-07T14:30:09.400] [ERROR] index.js - error
+[2019-08-07T14:30:09.680] [INFO] index.js - info
+[2019-08-07T14:30:09.680] [ERROR] index.js - error
+[2019-08-07T14:30:09.924] [INFO] index.js - info
+[2019-08-07T14:30:09.925] [ERROR] index.js - error
+[2019-08-07T14:30:27.768] [INFO] index.js - info
+[2019-08-07T14:30:27.769] [DEBUG] index.js - debug
+[2019-08-07T14:30:27.769] [ERROR] index.js - error
+[2019-08-07T14:30:27.780] [INFO] console - shutdown successful
+[2019-08-07T14:30:33.524] [INFO] index.js - info
+[2019-08-07T14:30:33.524] [DEBUG] index.js - debug
+[2019-08-07T14:30:33.525] [ERROR] index.js - error
+[2019-08-07T14:30:34.225] [INFO] index.js - info
+[2019-08-07T14:30:34.226] [DEBUG] index.js - debug
+[2019-08-07T14:30:34.226] [ERROR] index.js - error
+[2019-08-07T14:30:34.681] [INFO] index.js - info
+[2019-08-07T14:30:34.681] [DEBUG] index.js - debug
+[2019-08-07T14:30:34.681] [ERROR] index.js - error
+[2019-08-07T14:30:35.432] [INFO] index.js - info
+[2019-08-07T14:30:35.433] [DEBUG] index.js - debug
+[2019-08-07T14:30:35.433] [ERROR] index.js - error
+[2019-08-07T14:30:35.945] [INFO] index.js - info
+[2019-08-07T14:30:35.946] [DEBUG] index.js - debug
+[2019-08-07T14:30:35.946] [ERROR] index.js - error
+[2019-08-07T14:30:36.679] [INFO] index.js - info
+[2019-08-07T14:30:36.679] [DEBUG] index.js - debug
+[2019-08-07T14:30:36.680] [ERROR] index.js - error
+[2019-08-07T14:30:37.033] [INFO] index.js - info
+[2019-08-07T14:30:37.033] [DEBUG] index.js - debug
+[2019-08-07T14:30:37.034] [ERROR] index.js - error
+[2019-08-07T14:30:37.377] [INFO] index.js - info
+[2019-08-07T14:30:37.377] [DEBUG] index.js - debug
+[2019-08-07T14:30:37.377] [ERROR] index.js - error
+[2019-08-07T14:30:37.585] [INFO] index.js - info
+[2019-08-07T14:30:37.585] [DEBUG] index.js - debug
+[2019-08-07T14:30:37.586] [ERROR] index.js - error
+[2019-08-07T14:30:37.775] [INFO] index.js - info
+[2019-08-07T14:30:37.776] [DEBUG] index.js - debug
+[2019-08-07T14:30:37.776] [ERROR] index.js - error
+[2019-08-07T14:30:37.984] [INFO] index.js - info
+[2019-08-07T14:30:37.985] [DEBUG] index.js - debug
+[2019-08-07T14:30:37.985] [ERROR] index.js - error
+[2019-08-07T14:30:38.193] [INFO] index.js - info
+[2019-08-07T14:30:38.194] [DEBUG] index.js - debug
+[2019-08-07T14:30:38.194] [ERROR] index.js - error
+[2019-08-07T14:30:38.383] [INFO] index.js - info
+[2019-08-07T14:30:38.384] [DEBUG] index.js - debug
+[2019-08-07T14:30:38.384] [ERROR] index.js - error
+[2019-08-07T14:30:38.553] [INFO] index.js - info
+[2019-08-07T14:30:38.553] [DEBUG] index.js - debug
+[2019-08-07T14:30:38.554] [ERROR] index.js - error
+[2019-08-07T14:30:38.727] [INFO] index.js - info
+[2019-08-07T14:30:38.727] [DEBUG] index.js - debug
+[2019-08-07T14:30:38.727] [ERROR] index.js - error
+[2019-08-07T14:30:38.908] [INFO] index.js - info
+[2019-08-07T14:30:38.909] [DEBUG] index.js - debug
+[2019-08-07T14:30:38.909] [ERROR] index.js - error
+[2019-08-07T14:30:52.604] [INFO] index.js - info
+[2019-08-07T14:30:52.605] [ERROR] index.js - error
+[2019-08-07T14:30:52.606] [INFO] console - shutdown successful
+[2019-08-07T14:30:53.325] [INFO] index.js - info
+[2019-08-07T14:30:53.326] [ERROR] index.js - error
+[2019-08-07T14:30:53.327] [INFO] console - shutdown successful
+[2019-08-07T14:30:53.882] [INFO] index.js - info
+[2019-08-07T14:30:53.882] [ERROR] index.js - error
+[2019-08-07T14:30:53.883] [INFO] console - shutdown successful
+[2019-08-07T14:30:54.099] [INFO] index.js - info
+[2019-08-07T14:30:54.099] [ERROR] index.js - error
+[2019-08-07T14:30:54.100] [INFO] console - shutdown successful
+[2019-08-07T14:30:56.945] [INFO] index.js - info
+[2019-08-07T14:30:56.946] [ERROR] index.js - error
+[2019-08-07T14:30:57.319] [INFO] index.js - info
+[2019-08-07T14:30:57.320] [ERROR] index.js - error
+[2019-08-07T14:30:57.874] [INFO] index.js - info
+[2019-08-07T14:30:57.875] [ERROR] index.js - error
+[2019-08-07T14:30:58.058] [INFO] index.js - info
+[2019-08-07T14:30:58.059] [ERROR] index.js - error
+[2019-08-07T14:30:58.228] [INFO] index.js - info
+[2019-08-07T14:30:58.228] [ERROR] index.js - error
+[2019-08-07T14:30:58.381] [INFO] index.js - info
+[2019-08-07T14:30:58.381] [ERROR] index.js - error
+[2019-08-07T14:30:58.552] [INFO] index.js - info
+[2019-08-07T14:30:58.553] [ERROR] index.js - error
+[2019-08-07T14:30:58.727] [INFO] index.js - info
+[2019-08-07T14:30:58.727] [ERROR] index.js - error
+[2019-08-07T14:33:37.913] [INFO] index.js - info
+[2019-08-07T14:33:37.915] [ERROR] index.js - error
+[2019-08-07T14:33:37.916] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:33:54.386] [INFO] index.js - info
+[2019-08-07T14:33:54.387] [ERROR] index.js - error
+[2019-08-07T14:33:54.387] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:33:59.472] [INFO] index.js - info
+[2019-08-07T14:33:59.472] [ERROR] index.js - error
+[2019-08-07T14:33:59.473] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:34:13.640] [INFO] index.js - info
+[2019-08-07T14:34:13.640] [ERROR] index.js - error
+[2019-08-07T14:34:13.640] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:38:09.647] [INFO] index.js - info
+[2019-08-07T14:38:09.650] [ERROR] index.js - error
+[2019-08-07T14:38:09.651] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:38:18.417] [INFO] index.js - info
+[2019-08-07T14:38:18.419] [ERROR] index.js - error
+[2019-08-07T14:38:18.419] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:38:19.424] [INFO] index.js - info
+[2019-08-07T14:38:19.424] [ERROR] index.js - error
+[2019-08-07T14:38:19.424] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:38:19.960] [INFO] index.js - info
+[2019-08-07T14:38:19.960] [ERROR] index.js - error
+[2019-08-07T14:38:19.960] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:38:31.914] [INFO] index.js - info
+[2019-08-07T14:38:31.914] [ERROR] index.js - error
+[2019-08-07T14:38:31.915] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:43.456] [INFO] index.js - info
+[2019-08-07T14:39:43.459] [ERROR] index.js - error
+[2019-08-07T14:39:43.460] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:44.828] [INFO] index.js - info
+[2019-08-07T14:39:44.828] [ERROR] index.js - error
+[2019-08-07T14:39:44.830] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:56.465] [INFO] index.js - info
+[2019-08-07T14:39:56.466] [ERROR] index.js - error
+[2019-08-07T14:39:56.467] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:58.259] [INFO] index.js - info
+[2019-08-07T14:39:58.259] [ERROR] index.js - error
+[2019-08-07T14:39:58.260] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:58.664] [INFO] index.js - info
+[2019-08-07T14:39:58.664] [ERROR] index.js - error
+[2019-08-07T14:39:58.665] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:58.902] [INFO] index.js - info
+[2019-08-07T14:39:58.902] [ERROR] index.js - error
+[2019-08-07T14:39:58.903] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:39:59.079] [INFO] index.js - info
+[2019-08-07T14:39:59.079] [ERROR] index.js - error
+[2019-08-07T14:39:59.080] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'ALL' } },
+  pm2: true,
+  replaceConsole: true
+}
+[2019-08-07T14:40:04.983] [INFO] index.js - info
+[2019-08-07T14:40:04.984] [ERROR] index.js - error
+[2019-08-07T14:40:04.985] [INFO] index.js - {
+  appenders: {
+    console: { type: 'console', category: 'console' },
+    everything: {
+      type: 'file',
+      filename: 'log/run.log',
+      maxLogSize: 8388608,
+      backups: 5,
+      keepFileExt: true,
+      compress: false
+    },
+    errorFile: {
+      type: 'file',
+      filename: 'log/error.log',
+      maxLogSize: 8388608,
+      backups: 1024,
+      keepFileExt: true,
+      compress: false
+    },
+    errors: { type: 'logLevelFilter', level: 'error', appender: 'errorFile' }
+  },
+  categories: { default: { appenders: [Array], level: 'INFO' } },
+  pm2: true,
+  replaceConsole: true
+}

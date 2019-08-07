@@ -1,0 +1,22 @@
+{
+    "appenders": {
+        "console": {
+            "type": "console",
+            "category": "console"
+        },
+        "cheese": {
+            "type": "file",
+            "filename": "cheese.log"
+        }
+    },
+    "categories": {
+        "default": {
+            "appenders": [
+                "cheese",
+                "console"
+            ],
+            "level": "INFO"
+        }
+    }
+}
+
