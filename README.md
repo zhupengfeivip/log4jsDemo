@@ -1,5 +1,5 @@
 # log4jsDemo
-log4jsDemo
+本文档解决了log4js使用js作为配置文件时，修改js文件，不重启程序的情况下，自动加载配置文件。
 
 1、演示Log4js使用方法
 
